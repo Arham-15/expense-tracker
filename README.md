@@ -15,7 +15,7 @@ This project allows users to add, view, and calculate total expenses interactive
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Arham-15/expense-tracker.git
 ```
 
 2. Navigate to the folder:
@@ -51,4 +51,4 @@ python expense_tracker.py
 
 ## Author
 
-Your Name
+Arham Hassan
