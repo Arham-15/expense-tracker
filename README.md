@@ -1,7 +1,9 @@
-# Expense Tracker (Python CLI)
+# Expense Tracker 
 
 A simple command-line expense tracker built using Python.
 This project allows users to add, view, and calculate total expenses interactively.
+
+Live app https://expense-tracker-dkwusqjxrhb2a8hzvgkudo.streamlit.app/
 
 ## Features
 
